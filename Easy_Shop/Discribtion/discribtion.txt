@@ -1,0 +1,10 @@
+
+CO226 Project
+
+We did a database project called EasyShop Which can be use by both Shops
+or delears and Customers.
+The We can order Anyhing from the shops or delers. And they will deliver it to you.
+Here you can Signup as Customer or shop. If u signup as Shop a specific table will be created
+in the database in the name of the shop. So the shop name should be unique. Password should be 8 characters.
+If you enter as a customer you can add the products to the cart and you can buy them prom the cart.
+ 
